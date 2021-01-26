@@ -1,1 +1,1 @@
-# snake_game
+# Jogo da cobrinha feito em Javascript
